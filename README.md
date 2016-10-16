@@ -1,6 +1,6 @@
 # hello-world
 
-- Practice Repository - 
+- Practice Repository
 
 Hello All!
 
